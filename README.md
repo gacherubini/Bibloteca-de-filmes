@@ -3,6 +3,8 @@ Projeto de Site de Filmes em React!
 * Este é um projeto de site de filmes desenvolvido em React que permite aos usuários pesquisar filmes,
 * ver detalhes sobre eles e explorar informações sobre filmes populares usando a API TMDb.
 
+* link do projeto: https://idyllic-fudge-906049.netlify.app/
+
 <img src="./img.png">
 
 Funcionalidades:
